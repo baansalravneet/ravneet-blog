@@ -6,14 +6,14 @@ baseurl:            "/ravneet-blog"
 url:                "https://baansalravneet.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
+twitter_username:
 github_username:    baansalravneet
-facebook_username:  StartBootstrap
+facebook_username:
 instagram_username: rony_plays_guitar
 linkedin_username:  ravneet-baansal-09b64111a
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   G-X5PR5HZ7JL # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
