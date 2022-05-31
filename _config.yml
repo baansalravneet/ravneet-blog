@@ -4,6 +4,7 @@ description:        A space to dump and present speculations
 author:             Ravneet Baansal
 baseurl:            "/ravneet-blog"
 url:                "https://baansalravneet.github.io"
+favicon:            "/img/title-image.jpg"
 
 # Social Profiles
 twitter_username:
